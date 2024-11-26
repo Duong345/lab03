@@ -57,9 +57,4 @@ public class DigitalVideoDisc {
     public boolean isMatch(String title) {
         return this.title.toLowerCase().contains(title.toLowerCase());
     }
-
-	public void setTitle(String title2) {
-		// TODO Auto-generated method stub
-		
-	}
 }
